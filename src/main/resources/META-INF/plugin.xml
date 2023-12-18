@@ -4,11 +4,18 @@
     <name>Valkyrie Theme</name>
     <vendor>pfannkuchen</vendor>
 
+    <description><![CDATA[
+    <b>About</b>
+    <br/>
+    Description text here.
+  ]]></description>
+
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.pfannkuchen.valkyrie" path="/theme/valkyrie.theme.json"/>
+        <themeProvider id="com.github.pfannkuchen.valkyrie" path="/theme/valkyrie_new.theme.json"/>
     </extensions>
 </idea-plugin>

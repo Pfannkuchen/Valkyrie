@@ -2,10 +2,7 @@
   "name": "[NEWUI] Valkyrie",
   "dark": true,
   "author": "Pfannkuchen",
-  "colors": {
-    "test1": "#FF0000"
-  },
-  "editorScheme": "/valkyrie.xml",
+  "editorScheme": "/theme/valkyrie_new.xml",
   "ui": {
     "*": {
 
